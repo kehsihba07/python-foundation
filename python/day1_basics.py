@@ -1,0 +1,5 @@
+name=input("Enter your name: ")
+age=int(input("enter your age: "))
+college=input("enter  your college name: ")
+year_of_graduation=input("enter your graduation year: ")
+print("Hello!! , my name is " + name +", i am  " +str(age) + "years old, currently i am pursuing my btech degree from "+ college+"  i will graduate in the year"+str(year_of_graduation)+".")
